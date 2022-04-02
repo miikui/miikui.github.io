@@ -5,6 +5,9 @@ body {
 h1 {
   font-size: 20px;
 }
+h2 {
+  font-size: 18px;
+}
 p {
   background-color: #E6E6FA;
   color: #00008B;
