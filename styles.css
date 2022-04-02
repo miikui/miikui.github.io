@@ -7,6 +7,17 @@ h1 {
 }
 p {
   font-size: 16px;
-  color: DarkBlue;
-  background-color: Lavender;
+  color: #00008B;
+  background-color: #E6E6FA;
+}
+ol {
+  list-style-type: upper-alpha;
+}
+ul {
+  list-style-type: square;
+}
+.profile-img {
+  border: dotted 2px;
+  width: 200px;
+  height: 200px;
 }
