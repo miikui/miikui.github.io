@@ -1,5 +1,5 @@
 body {
-  backgroud-color: #F0F8FF;
+  background-color: #F0F8FF;
   color: #696969;
 }
 h1 {
@@ -8,6 +8,5 @@ h1 {
 p {
   font-size: 16px;
   color: DarkBlue;
-  backgroud-color: Lavander;
-  
+  background-color: Lavender;
 }
