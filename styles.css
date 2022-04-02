@@ -17,6 +17,7 @@ ul {
   list-style-type: square;
 }
 .profile-img {
-  border: dotted 2px;
-
+  border: dotted #00008B 2px;
+  height: 200px;
+  width: 200px;
 }
