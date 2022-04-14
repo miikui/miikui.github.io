@@ -13,6 +13,9 @@ p {
   background-color: #E6E6FA;
   color: #00008B;
   font-size: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 15px 25px 15px 25px;
 }
 ol {
   list-style-type: upper-alpha;
@@ -33,4 +36,5 @@ a {
   background-color: #B1A295;
   border: #31382E 1px;
   border-radius: 10px;
+  padding: 10px 15px 10px 15px;
 }
