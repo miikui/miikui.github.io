@@ -8,14 +8,14 @@ header {
   margin-bottom: 15px;
   padding: 50px 25px 50px 25px;
 }
-footer {
+#contact {
   position: absolute;
   bottom: 0;
   width: 100%;
+  height: 75px;
   background-color: #FDECED;
   margin-top: 50px;
-  margin-bottom: 50px;
-  padding: 50px 25px 50px 25px;
+  padding: 15px 25px 15px 25px;
 }
 section{
   float: left;
