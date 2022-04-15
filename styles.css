@@ -4,6 +4,9 @@ body {
 }
 header {
   background-color: #FDECED;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 50px 25px 50px 25px;
 }
 footer {
   background-color: #FDECED;
