@@ -10,6 +10,8 @@ footer {
 }
 aside {
   background-color: #F1F7F9;
+  position: absolute;
+  right: 10px;
 }
 h1 {
   font-size: 20px;
