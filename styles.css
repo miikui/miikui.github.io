@@ -7,6 +7,14 @@ header {
 }
 footer {
   background-color: #FDECED;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px 25px 50px 25px;
+}
+section{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px 25px 50px 25px;
 }
 aside {
   background-color: #F1F7F9;
