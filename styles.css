@@ -1,6 +1,15 @@
 body {
-  background-color: #FFFFF0;
+  background-color: #FCFCFC;
   color: #696969;
+}
+header {
+  background-color: #FDECED;
+}
+footer {
+  background-color: #FDECED;
+}
+aside {
+  background-color: #F1F7F9;
 }
 h1 {
   font-size: 20px;
