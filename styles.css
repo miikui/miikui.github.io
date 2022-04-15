@@ -15,13 +15,12 @@ header {
   padding: 15px 25px 15px 25px;
 }
 section{
-  float: left;
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 50px 25px 50px 25px;
 }
 aside {
-   padding: 50px 25px 50px 25px;
+  padding: 50px 25px 50px 25px;
   background-color: #F1F7F9;
 }
 h1 {
