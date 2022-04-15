@@ -21,6 +21,9 @@ section{
   padding: 50px 25px 50px 25px;
 }
 aside {
+  width: 30%;
+  padding: 50px 25px 50px 25px;
+  margin-left: 15px;
   background-color: #F1F7F9;
   float: right;
 }
