@@ -18,6 +18,7 @@ section{
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 50px 25px 50px 25px;
+  width: 80%;
 }
 aside {
   padding: 50px 25px 50px 25px;
@@ -46,8 +47,8 @@ ul {
   list-style-type: square;
 }
 .profile-img {
-  border: dotted #00008B 2px;
-}
+  border-left: solid #FDECED 10px;
+  }
 
 .link {
   background-color: #DFE3DD;
@@ -62,4 +63,7 @@ a {
 address {
   margin-top:20px;
   margin-bottom: 20px;
+}
+.side {
+  border-left: solid #FDECED 10px;
 }
