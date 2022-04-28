@@ -79,3 +79,6 @@ address {
     background-color: #FCFCFC;
     color: #696969;
 }
+.portfolio-image{
+  border-left: solid #FDECED 10px;
+}
