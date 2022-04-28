@@ -66,6 +66,10 @@ a {
   border: solid #696969 1px;
   border-radius: 5px;
   padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+a:active {
+ text-color: #000000;
 }
 address {
   margin-top:20px;
