@@ -91,3 +91,6 @@ figure {
   height: 10px;
   accent-color: #F7B5BA; 
 }
+dt {
+font-weight: bold;
+}
