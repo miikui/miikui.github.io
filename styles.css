@@ -96,6 +96,7 @@ figure {
 .language {
   height: 10px;
   accent-color: #F7B5BA; 
+  margon-bottom: 5px;
 }
 dt {
 font-weight: bold;
