@@ -81,6 +81,7 @@ address {
 .portfolio-text {
     background-color: #FCFCFC;
     color: #696969;
+  font-weight: normal;
 }
 .portfolio-image {
   border-left: solid #FDECED 10px;
