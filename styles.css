@@ -29,20 +29,21 @@ aside {
 h1 {
   font-size: 32px;
   border: ##B1A295 2px;
+  margin-bottom: 15px;
 }
 h2 {
   font-size: 24px;
+  margin-bottom: 15px;
 }
 h3 {
   font-size: 16px;
+  margin-bottom: 15px;
 }
 p {
   background-color: #E6E6FA;
   color: #00008B;
   font-size: 14px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  padding: 15px 25px 15px 25px;
+
 }
 ol {
   list-style-type: upper-alpha;
