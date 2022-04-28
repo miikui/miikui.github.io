@@ -27,16 +27,19 @@ aside {
   width: 20%;
 }
 h1 {
-  font-size: 20px;
+  font-size: 32px;
   border: ##B1A295 2px;
 }
 h2 {
-  font-size: 18px;
+  font-size: 24px;
+}
+h3 {
+  font-size: 16px;
 }
 p {
   background-color: #E6E6FA;
   color: #00008B;
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 15px 25px 15px 25px;
