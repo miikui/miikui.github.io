@@ -67,6 +67,7 @@ a {
   border-radius: 5px;
   padding: 10px 15px 10px 15px;
   text-decoration: none;
+  color: #696969;
 }
 a:active {
  text-color: #000000;
