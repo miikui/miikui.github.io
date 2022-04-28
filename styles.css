@@ -24,6 +24,7 @@ aside {
   padding: 50px 25px 50px 25px;
   background-color: #F1F7F9;
   float: right;
+  width: 20%;
 }
 h1 {
   font-size: 20px;
@@ -66,4 +67,9 @@ address {
 }
 .side {
   border-left: solid #FDECED 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.portfolio-text {
+    background-color: #FCFCFC;
 }
